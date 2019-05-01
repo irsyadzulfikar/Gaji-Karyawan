@@ -1,0 +1,7 @@
+E:\irsyad\Responsi2322\Responsi2322\bin\Debug\Responsi2322.exe.config
+E:\irsyad\Responsi2322\Responsi2322\bin\Debug\Responsi2322.exe
+E:\irsyad\Responsi2322\Responsi2322\bin\Debug\Responsi2322.pdb
+E:\irsyad\Responsi2322\Responsi2322\obj\Debug\Responsi2322.csprojAssemblyReference.cache
+E:\irsyad\Responsi2322\Responsi2322\obj\Debug\Responsi2322.csproj.CoreCompileInputs.cache
+E:\irsyad\Responsi2322\Responsi2322\obj\Debug\Responsi2322.exe
+E:\irsyad\Responsi2322\Responsi2322\obj\Debug\Responsi2322.pdb
